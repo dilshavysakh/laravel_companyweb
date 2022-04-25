@@ -19,7 +19,6 @@
     
     <div class="container" style="zoom: 90%;>
       <div class="row">
-      <h3 class="bg-gradient mt-3 p-3 text-decoration-underline text-gray-400">COMPANY DETAILS</h3>
         
       <div class="row">
         <div class="col-sm-4">
